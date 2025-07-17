@@ -1,7 +1,3 @@
-# Studio Legale Mariani
+# Easy Legal
 
-Questa è un'app base per il gestionale clienti, pensata per Vercel.
-
-## Accesso
-- username: `cliente` o `studio`
-- password: `1234`
+Dashboard per studi legali e clienti.
