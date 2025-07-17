@@ -1,3 +1,1 @@
-# Easy Legal
-
-Dashboard per studi legali e clienti.
+# Easy Legal - Base di progetto per Vercel

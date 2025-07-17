@@ -1,8 +1,11 @@
+
+import '../styles/globals.css';
+
 export default function Home() {
   return (
-    <main>
-      <h1>Benvenuto in Easy Legal</h1>
-      <p>Gestione studio legale semplificata.</p>
-    </main>
+    <div>
+      <h1>Benvenuto nell'area riservata: studio</h1>
+      <p>Caricamento documenti, appuntamenti e videochiamate disponibili nella versione completa.</p>
+    </div>
   );
 }
